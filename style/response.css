@@ -1,0 +1,14 @@
+@media screen and (max-width:1036px) {
+    
+    header .container{
+        display: flex;
+        flex-direction: column;
+    
+    }
+}
+
+header .logo{
+    text-align: center;
+}
+
+
